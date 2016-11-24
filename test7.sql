@@ -1,0 +1,22 @@
+USE northwind;
+
+SELECT COUNT(*) FROM customers;
+SELECT count(*) FROM employees;
+SELECT count(*) FROM employee_privileges;
+SELECT count(*) FROM inventory_transaction_types;
+SELECT count(*) FROM inventory_transactions;
+SELECT count(*) FROM invoices;
+SELECT count(*) FROM order_details;
+SELECT count(*) FROM order_details_status;
+SELECT count(*) FROM orders;
+SELECT count(*) FROM orders_status;
+SELECT count(*) FROM orders_tax_status;
+SELECT count(*) FROM privileges;
+SELECT count(*) FROM products;
+SELECT count(*) FROM purchase_order_details;
+SELECT count(*) FROM purchase_order_status;
+SELECT count(*) FROM purchase_orders;
+SELECT count(*) FROM sales_reports;
+SELECT count(*) FROM shippers;
+SELECT count(*) FROM strings;
+SELECT count(*) FROM suppliers;
