@@ -1,0 +1,20 @@
+city
+Boise
+Boston
+Chicago
+Denver
+Honolulu
+Las Vegas
+Los Angelas
+Memphis
+Miami
+Milwaukee
+Minneapolis
+New York
+Portland
+Salt Lake City
+San Francisco
+Seattle
+Bellevue
+Kirkland
+Redmond
